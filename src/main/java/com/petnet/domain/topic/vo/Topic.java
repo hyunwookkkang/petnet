@@ -26,5 +26,10 @@ public class Topic {
     private Timestamp updateDate;       // UPDATE_DATE
     private String files;  // FILES (JSON)
     private Boolean isDownloadable;     // IS_DOWNLOADABLE
-//이건 시험 한번 하보는거
+//이건 시험 한번 하보는
+//123
+
+
+
+    /// /12321312312312312321
 }
