@@ -13,7 +13,7 @@ import java.sql.Timestamp;
 @NoArgsConstructor
 public class Topic {
 
-    /// Field
+    /// TEST중입니다.~~~~~~~~~
     private String topicId;             // TOPIC_ID
     private int authorId;               // AUTHOR_ID
     private Character topicType;        // TOPIC_TYPE
